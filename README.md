@@ -29,7 +29,6 @@ Jcl/
   Executarp4.jcl     → ordena o arquivo e executa o programa
 
 CONTAS.txt           → arquivo com os dados das contas (12 registros)
-CONTAS.NOVAS.txt     → contas extras (desafio opcional)
 ```
 
 ---
